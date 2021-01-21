@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Kanika Chugh
+
+Kanika is Data Analyst and a Process Engineer with a decade of experience working in the process engineering firms. She is finishing her Masters degree in Engineering Management from San Jose State University.
+
+She has expertice in 
+
+She has completed many certificate programs and projectes in Data Analytics and Data Visualization, 
 
 You can use the [editor on GitHub](https://github.com/Chugh-Kanika/me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
