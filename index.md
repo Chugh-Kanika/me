@@ -6,6 +6,15 @@ She has expertice in
 
 She has completed many certificate programs and projectes in Data Analytics and Data Visualization, 
 
+
+### Experience
+
+
+### Projects
+
+
+
+
 You can use the [editor on GitHub](https://github.com/Chugh-Kanika/me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
